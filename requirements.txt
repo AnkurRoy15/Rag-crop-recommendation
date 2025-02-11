@@ -1,0 +1,12 @@
+chromadb
+transformers
+sentence-transformers
+numpy
+pandas
+fastapi
+uvicorn
+gemini-api
+scikit-learn
+python-dotenv
+torch
+
